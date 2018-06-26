@@ -1,6 +1,7 @@
 # OS-Projects
 
 ## 1. Project Introduction
+
     In this project, we will see how processes are managed in Linux and make a system call to 
 log the information of the current running processes. Your task for this project is to make your 
 own system call to enable the given application sysps to show the information of  the current 
